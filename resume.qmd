@@ -1,89 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luis Fernando Mendoza's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Luis Fernando Mendoza
+Business Intelligence, Data Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected April 2025`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Majoring in Business Analytics
+- Mainoring in Data Science
 
 
+## Service and Work History
 
-## Awards
+`May 2018-September 2018`
+__Car Wash Associate for Epic Shine__, Meridian, ID
 
-`2012`
-President, *Royal Society*, London, UK
+- Worked with a team to give top of the line customer service.
+- Preformed janitorial services around the carwash.
+- Instructed people in the proper way to use an automated car wash.
 
-Associate, *French Academy of Science*, Paris, France
+`2018-2020`
+__Religious Missionary__, Kansas
 
+- Studied rigorously from religious texts daily.
+- Taught lessons on religious topics as a team.
+- Attended trainings to become better missionaries.
 
+`April 2020-September 2020`
+__Warehouse Associate for Scentsy__, Meridian, ID
 
-## Publications
+- Tasked with Moving, packing, shipping, and restocking merchandise.
+- Taught to put merchandise together.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`April 2021-November 2021`
+__Security Guard for Amazon__, Meridian, ID
 
-### Journals
+- Trained to identify threats to the facility, de-escalate potentially harmful situations, and observe and report suspicious activities to the proper authorities.
+- Patrolled the building every hour to regulate the environment and discourage mischief.
+- Trained to respond in emergency situations as an escort and administer CPR as needed.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`April 2023-June 2023`
+__Gas Station Clerk for Good 2 Go__, Rigby, ID
 
-`1669`
-Lectiones opticæ.
+- Completed purchases for merchandise and/or gas.
+- Kept gas station and work area clean and tidy.
+- Preformed simple maintenance on machinery.
 
-etc. etc. etc.
+`July 2023-Present Day`
+__Tailored Clothing Specialist for Dillards__, Idaho Falls, ID
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Help customers find what they want and need through asking questions and giving suggestions.
+- Teach customers about the benefits of using a Dillards credit card and gude them through the application process.
+- Measure customers so they are getting the right fit for them in a variety of shirts, slacks, and suits.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2024 -->
